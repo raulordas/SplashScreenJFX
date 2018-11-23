@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.titulo {
+	-fx-font-family: Anton;
+	-fx-font-size: 40px;
+}
+
+.titulo2 {
+	-fx-font-family: Anton;
+	-fx-font-size: 10px;
+}
+
+.fondo {
+	-fx-background-image: url('assets/f1.jpg');
+	-fx-background-size: cover, auto;
+}
+
+.general {
+	-fx-font-family: "Muli";
+	-fx-font-size: 15;
+}
